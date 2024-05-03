@@ -8,7 +8,7 @@ Angelov, Agachan, Jashari, Marku
 | 08.03      | 0.0.2   | Mit der Realisierung alle zusammen begonnen.                                                             |
 | 15.03      | 0.0.3   | Jeder hat an seine eigene Arbeitspaketen gearbeitet und hat die Logik implementiert                                                             |
 | 22.03      | 0.0.4   | Alle wichtigen Arbeitspakete zusammengestellt und sichergestellt, dass alles zusammen funktioniert.                         |
-| 05.04      | 0.0.5   | Finale änderungen an der Website vorgenommen.                                                            |
+| 05.04      | 0.0.5   | Finale Änderungen an der Website vorgenommen.                                                            |
 | 26.04      | 1.0.0   | Portfolios zum Projekt erstellt.                                                            |
 
 ## 1 Informieren
@@ -69,7 +69,7 @@ Erleben Sie intuitive Binär-, Hexadezimal- und Dezimalumwandlungen auf Knopfdru
 | 8.A | 03.08.2023 | Agachan  | Entwicklung der Funktion zur Umwandlung von Binärzahlen in Hexadezimalzahlen. | 120' |
 | 9.A | 10.08.2023 | Agachan    | Implementierung einer Funktion, die Binärzahlen in Dezimalzahlen konvertiert. | 120' |
 | 10.A | 17.08.2023 | Jashari      | Entwicklung der zwei Farbmodus | 120' |
-| 11.A | 24.08.2023 | Jashari   | Ganze Website stylen und benutzerfreundlich machen.| 180' |
+| 11.A | 24.08.2023 | Alle   | Ganze Website stylen und benutzerfreundlich machen.| 180' |
 
 ## 3 Entscheiden
 
