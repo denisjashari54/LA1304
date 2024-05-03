@@ -53,7 +53,10 @@ Erleben Sie intuitive Binär-, Hexadezimal- und Dezimalumwandlungen auf Knopfdru
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![grafik](https://github.com/denisjashari54/LA1304/assets/110892575/f6e46f9b-da2e-4b53-a7c1-c14d18e0bedf)
+
+![grafik](https://github.com/denisjashari54/LA1304/assets/110892575/85c48394-b166-45af-9535-3fd2d6e29a50)
+
 
 ## 2 Planen
 
