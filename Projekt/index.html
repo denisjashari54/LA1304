@@ -1,0 +1,64 @@
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <title>Number Converter *Free Trials*</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="site-container">
+        <header id="site-header">
+            <h1>Number Converter</h1>
+        </header>
+        <nav id="main-navigation">
+            <div>
+                <select id="conversion-type-dropdown">
+                    <option selected>Zahlensystem</option>
+                    <option value="binary">Binär</option>
+                    <option value="decimal">Dezimal</option>
+                    <option value="hexa">Hexadezimal</option>
+                </select>
+            </div>
+            <div class="navigation-items">
+                <button class="theme-toggle-button">Toggle Theme</button>
+            </div>
+        </nav>
+        <main id="content-section" class="main">
+            <div class="form-container">
+                <form class="conversion-form">
+                    <label>
+                        <h1>Binär</h1>
+                    </label>
+                    <input id="binary-input" readonly></input>
+                </form>
+                <form class="conversion-form">
+                    <label>
+                        <h1>Dezimal</h1>
+                    </label>
+                    <input id="decimal-input" readonly></input>
+                </form>
+                <form class="conversion-form">
+                    <label>
+                        <h1>Hexadezimal</h1>
+                    </label>
+                    <input id="hexadecimal-input" readonly></input>
+                </form>
+            </div>
+            <button class="confirm-button" id="convert-button">Konvertieren</button>
+        </main>
+        <footer class="footer" id="site-footer">
+            <p>© Angel Angelov</p>
+            <p>© Erik Marku</p>
+            <p>© Denis Jashari</p>
+            <p>© Agachan Atputharasa</p>
+        </footer>
+    </div>
+    <script src="./sites.js" type="module"></script>
+    <script src="./binary.js" type="module"></script>
+    <script src="./decimal.js" type="module"></script>
+    <script src="./hexa.js" type="module"></script>
+</body>
+
+</html>
