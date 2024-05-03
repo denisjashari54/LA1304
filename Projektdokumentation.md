@@ -71,7 +71,7 @@ Erleben Sie intuitive Binär-, Hexadezimal- und Dezimalumwandlungen auf Knopfdru
 | 7.A | 08.03.2024 - 22.03.2024 | Marku  | Programmierung einer Funktion für die Konvertierung von Dezimalzahlen in Hexadezimalzahlen. | 120' |
 | 8.A | 08.03.2024 - 22.03.2024| Agachan  | Entwicklung der Funktion zur Umwandlung von Binärzahlen in Hexadezimalzahlen. | 120' |
 | 9.A | 08.03.2024 - 22.03.2024 | Agachan    | Implementierung einer Funktion, die Binärzahlen in Dezimalzahlen konvertiert. | 120' |
-| 10.A | 08.03.2024 - 22.03.2024  | Jashari      | Entwicklung der SPA | 120' |
+| 10.A | 08.03.2024 - 22.03.2024  | Jashari      | Entwicklung der Navigation der SPA | 120' |
 | 11.A | 08.03.2024 - 22.03.2024  | Jashari      | Entwicklung der zwei Farbmodus | 120' |
 | 12.A | 05.04.2023 | Alle   | Ganze Website stylen und benutzerfreundlich machen.| 180' |
 
