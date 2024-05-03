@@ -30,8 +30,9 @@ Erleben Sie intuitive Binär-, Hexadezimal- und Dezimalumwandlungen auf Knopfdru
 | 7    |  Muss               |  Funktional    | Als ein Benutzer möchte ich die Möglichkeit haben, Dezimalzahlen in Hexadezimalzahlen zu konvertieren.  |
 | 8    |  Muss               |  Funktional    | Als ein Benutzer möchte ich die Möglichkeit haben, Binärzahlen in Hexadezimalzahlen zu konvertieren.  |
 | 9    |  Muss               |  Funktional    | Als ein Benutzer möchte ich die Möglichkeit haben, Binärzahlen in Dezimalzahlen zu konvertieren.  |
-| 10   |  Muss               |  Qualität      | Als ein Benutzer möchte ich die Möglichkeit haben, zwischen zwei verschiedenen Farben entscheiden zu können. |
-| 11   |  Muss               |  Qualität      | Als ein Benutzer möchte ich, dass die Website schön und passend gestylt ist.  |
+| 10    |  Muss               |  Funktional    | Als ein Benutzer möchte ich, dass die Website als SPA implementiert wird.  |
+| 11   |  Muss               |  Qualität      | Als ein Benutzer möchte ich die Möglichkeit haben, zwischen zwei verschiedenen Farben entscheiden zu können. |
+| 12   |  Muss               |  Qualität      | Als ein Benutzer möchte ich, dass die Website schön und passend gestylt ist.  |
 
 
 ### 1.3 Testfälle
@@ -47,8 +48,9 @@ Erleben Sie intuitive Binär-, Hexadezimal- und Dezimalumwandlungen auf Knopfdru
 | 7.1  |  Input Feld   |  "eine Dezimalzahl"         |   "Hexadezimalzahl & Binärzahl"   |
 | 8.1  |  Input Feld   |  "eine Binärzahl"           |   "Hexadezimalzahl & Dezimalzahl" |
 | 9.1  |  Input Feld   |  "eine Binärzahl"           |   "Dezimalzahl & Hexadezimalzahl" |
-| 10.1 |  Auf der Website (Z.B. im weissen Modus)| Auf den Modus-Knopf klicken. | -  (Website verwandelt sich in den blauen Modus.)        |
-| 11.1 |  Auf der Website  |  -    |   -  (Schön gestaltete, benutzerfreundliche Website.)                |
+| 10.1 |  Auf der Website  |  -    |   -  (SPA Website.)                |
+| 11.1 |  Auf der Website (Z.B. im weissen Modus)| Auf den Modus-Knopf klicken. | -  (Website verwandelt sich in den blauen Modus.)        |
+| 12.1 |  Auf der Website  |  -    |   -  (Schön gestaltete, benutzerfreundliche Website.)                |
 
 
 ### 1.4 Mockup
