@@ -71,8 +71,9 @@ Erleben Sie intuitive Binär-, Hexadezimal- und Dezimalumwandlungen auf Knopfdru
 | 7.A | 08.03.2024 - 22.03.2024 | Marku  | Programmierung einer Funktion für die Konvertierung von Dezimalzahlen in Hexadezimalzahlen. | 120' |
 | 8.A | 08.03.2024 - 22.03.2024| Agachan  | Entwicklung der Funktion zur Umwandlung von Binärzahlen in Hexadezimalzahlen. | 120' |
 | 9.A | 08.03.2024 - 22.03.2024 | Agachan    | Implementierung einer Funktion, die Binärzahlen in Dezimalzahlen konvertiert. | 120' |
-| 10.A | 08.03.2024 - 22.03.2024  | Jashari      | Entwicklung der zwei Farbmodus | 120' |
-| 11.A | 05.04.2023 | Alle   | Ganze Website stylen und benutzerfreundlich machen.| 180' |
+| 10.A | 08.03.2024 - 22.03.2024  | Jashari      | Entwicklung der SPA | 120' |
+| 11.A | 08.03.2024 - 22.03.2024  | Jashari      | Entwicklung der zwei Farbmodus | 120' |
+| 12.A | 05.04.2023 | Alle   | Ganze Website stylen und benutzerfreundlich machen.| 180' |
 
 ## 3 Entscheiden
 
@@ -92,7 +93,8 @@ Wir waren uns zunächst uneinig über die Implementierung der zwei Farbschemata,
 | 8.A | 08.03.2024 - 22.03.2024| Agachan     | 120' | 150' |
 | 9.A | 08.03.2024 - 22.03.2024 | Agachan    | 120' | 150' |
 | 10.A | 08.03.2024 - 22.03.2024  | Jashari  | 120' | 200' |
-| 11.A | 05.04.2023 | Alle   | 180' | 180' |
+| 11.A | 08.03.2024 - 22.03.2024  | Jashari  | 120' | 180' |
+| 12.A | 05.04.2023 | Alle   | 180' | 180' |
 
 
 ## 5 Kontrollieren
@@ -112,6 +114,7 @@ Wir waren uns zunächst uneinig über die Implementierung der zwei Farbschemata,
 | 9.1  |  05.04.2024     |  Funktioniert        |  Angelov |
 | 10.1 |  05.04.2024     |  Funktioniert        |  Angelov |
 | 11.1 |  05.04.2024     |  Funktioniert        |  Agachan |
+| 12.1 |  05.04.2024     |  Funktioniert        |  Agachan |
 
 Alle Tests vom 05.04.2024 wurden erfolgreich bestätigt. Das Produkt funktioniert stabil und ohne festgestellte Probleme.
 
