@@ -6,9 +6,9 @@ Angelov, Agachan, Jashari, Marku
 | ----- | ------- | ------------------------------------------------------------ |
 | 01.03      | 0.0.1   | Planung für unsere Website aufgebaut. Grundlegende Struktur aufgebaut. |
 | 08.03      | 0.0.2   | Mit der Realisierung alle zusammen begonnen.                                                             |
-| 15.03      | 0.0.2   | Jeder hat an seine eigene Arbeitspaketen gearbeitet und hat die Logik implementiert                                                             |
-| 22.03      | 0.0.2   | Alle wichtigen Arbeitspakete zusammengestellt und sichergestellt, dass alles zusammen funktioniert.                         |
-| 05.04      | 0.0.2   | Die wichtigsten >Designs implementiert (Hintergrundfarbe usw.)                                                             |
+| 15.03      | 0.0.3   | Jeder hat an seine eigene Arbeitspaketen gearbeitet und hat die Logik implementiert                                                             |
+| 22.03      | 0.0.4   | Alle wichtigen Arbeitspakete zusammengestellt und sichergestellt, dass alles zusammen funktioniert.                         |
+| 05.04      | 0.0.5   | Die wichtigsten >Designs implementiert (Hintergrundfarbe usw.)                                                             |
 | 26.04      | 1.0.0   | Portfolios zum Projekt erstellt.                                                            |
 
 ## 1 Informieren
