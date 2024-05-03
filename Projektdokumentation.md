@@ -6,9 +6,9 @@ Angelov, Agachan, Jashari, Marku
 | ----- | ------- | ------------------------------------------------------------ |
 | 01.03      | 0.0.1   | Planung für unsere Website aufgebaut. Grundlegende Struktur aufgebaut. |
 | 08.03      | 0.0.2   | Mit der Realisierung alle zusammen begonnen.                                                             |
-| 15.03      | 0.0.3   | Jeder hat an seine eigene Arbeitspaketen gearbeitet und hat die Logik implementiert                                                             |
+| 15.03      | 0.0.3   | Jeder hat an die eigene Arbeitspaketen gearbeitet und hat die Logik implementiert.                                                             |
 | 22.03      | 0.0.4   | Alle wichtigen Arbeitspakete zusammengestellt und sichergestellt, dass alles zusammen funktioniert.                         |
-| 05.04      | 0.0.5   | Finale Änderungen an der Website vorgenommen.                                                            |
+| 05.04      | 0.0.5   | Finale Änderungen an der Website vorgenommen. Projektdokumentation fertiggestellt.                                                            |
 | 26.04      | 1.0.0   | Portfolios zum Projekt erstellt.                                                            |
 
 ## 1 Informieren
@@ -99,7 +99,16 @@ Wir waren uns zunächst uneinig über die Implementierung der zwei Farbschemata,
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1  |       |          |        |
-| ...  |       |          |        |
+| 2.1  |       |          |        |
+| 3.1  |       |          |        |
+| 4.1  |       |          |        |
+| 5.1  |       |          |        |
+| 6.1  |       |          |        |
+| 7.1  |       |          |        |
+| 8.1  |       |          |        |
+| 9.1  |       |          |        |
+| 10.1 |       |          |        |
+| 11.1 |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
