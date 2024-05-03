@@ -51,9 +51,7 @@ Erleben Sie intuitive Binär-, Hexadezimal- und Dezimalumwandlungen auf Knopfdru
 | 11.1 |  Auf der Website  |  -    |   -  (Schön gestaltete, benutzerfreundliche Website.)                |
 
 
-### 1.4 Diagramme
-
-![grafik](https://github.com/denisjashari54/LA1304/assets/110892575/f6e46f9b-da2e-4b53-a7c1-c14d18e0bedf)
+### 1.4 Mockup
 
 ![grafik](https://github.com/denisjashari54/LA1304/assets/110892575/85c48394-b166-45af-9535-3fd2d6e29a50)
 
