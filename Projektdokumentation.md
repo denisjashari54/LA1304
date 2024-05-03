@@ -59,17 +59,17 @@ Erleben Sie intuitive Binär-, Hexadezimal- und Dezimalumwandlungen auf Knopfdru
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A | 15.06.2023 | Angelov  | Entwicklung des Eingabefeldes | 30' |
-| 2.A | 22.06.2023 | Jashari  | Implementierung der Fehleingabe Funktion. | 45' |
-| 3.A | 29.06.2023 | Marku    | Implementierung der Funktion zur Ausgabe der Zahlen| 30' |
-| 4.A | 06.07.2023 | Angelov  | Entwicklung einer Funktion zur Konvertierung von Hexadezimalzahlen in Dezimalzahlen. | 120' |
-| 5.A | 13.07.2023 | Angelov    | Implementierung einer Funktion, die Hexadezimalzahlen in Binärzahlen umwandelt. | 120' |
-| 6.A | 20.07.2023 | Marku  | Erstellung einer Funktionalität zur Umwandlung von Dezimalzahlen in Binärzahlen. | 120' |
-| 7.A | 27.07.2023 | Marku  | Programmierung einer Funktion für die Konvertierung von Dezimalzahlen in Hexadezimalzahlen. | 120' |
-| 8.A | 03.08.2023 | Agachan  | Entwicklung der Funktion zur Umwandlung von Binärzahlen in Hexadezimalzahlen. | 120' |
-| 9.A | 10.08.2023 | Agachan    | Implementierung einer Funktion, die Binärzahlen in Dezimalzahlen konvertiert. | 120' |
-| 10.A | 17.08.2023 | Jashari      | Entwicklung der zwei Farbmodus | 120' |
-| 11.A | 24.08.2023 | Alle   | Ganze Website stylen und benutzerfreundlich machen.| 180' |
+| 1.A | 08.03.2024 | Angelov  | Entwicklung des Eingabefeldes | 30' |
+| 2.A | 08.03.2024 | Jashari  | Implementierung der Fehleingabe Funktion. | 45' |
+| 3.A | 08.03.2024| Marku    | Implementierung der Funktion zur Ausgabe der Zahlen| 30' |
+| 4.A | 08.03.2024 - 22.03.2024 | Angelov  | Entwicklung einer Funktion zur Konvertierung von Hexadezimalzahlen in Dezimalzahlen. | 120' |
+| 5.A | 08.03.2024 - 22.03.2024 | Angelov    | Implementierung einer Funktion, die Hexadezimalzahlen in Binärzahlen umwandelt. | 120' |
+| 6.A | 08.03.2024 - 22.03.2024 | Marku  | Erstellung einer Funktionalität zur Umwandlung von Dezimalzahlen in Binärzahlen. | 120' |
+| 7.A | 08.03.2024 - 22.03.2024 | Marku  | Programmierung einer Funktion für die Konvertierung von Dezimalzahlen in Hexadezimalzahlen. | 120' |
+| 8.A | 08.03.2024 - 22.03.2024| Agachan  | Entwicklung der Funktion zur Umwandlung von Binärzahlen in Hexadezimalzahlen. | 120' |
+| 9.A | 08.03.2024 - 22.03.2024 | Agachan    | Implementierung einer Funktion, die Binärzahlen in Dezimalzahlen konvertiert. | 120' |
+| 10.A | 08.03.2024 - 22.03.2024  | Jashari      | Entwicklung der zwei Farbmodus | 120' |
+| 11.A | 05.04.2023 | Alle   | Ganze Website stylen und benutzerfreundlich machen.| 180' |
 
 ## 3 Entscheiden
 
@@ -79,10 +79,18 @@ Wir waren uns zunächst uneinig über die Implementierung der zwei Farbschemata,
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A | 08.03.2024 | Angelov   | 30' | 20' |
+| 2.A | 08.03.2024 | Jashari   | 45' | 50' |
+| 3.A | 08.03.2024| Marku      | 30' | 20'|
+| 4.A | 08.03.2024 - 22.03.2024 | Angelov    | 120' | 150' |
+| 5.A | 08.03.2024 - 22.03.2024 | Angelov    | 120' | 150' |
+| 6.A | 08.03.2024 - 22.03.2024 | Marku      | 120' | 150' |
+| 7.A | 08.03.2024 - 22.03.2024 | Marku      | 120' | 150' |
+| 8.A | 08.03.2024 - 22.03.2024| Agachan     | 120' | 150' |
+| 9.A | 08.03.2024 - 22.03.2024 | Agachan    | 120' | 150' |
+| 10.A | 08.03.2024 - 22.03.2024  | Jashari  | 120' | 200' |
+| 11.A | 05.04.2023 | Alle   | 180' | 180' |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
