@@ -59,23 +59,17 @@ Erleben Sie intuitive Binär-, Hexadezimal- und Dezimalumwandlungen auf Knopfdru
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A | 15.06.2023 | Angelov  | Entwicklung des Eingabefeldes | 120' |
-| 2.A | 22.06.2023 | Jashari  | Implementierung der Fehleingabe Funktion. | 120' |
-| 3.A | 29.06.2023 | Marku    | Implementierung der Funktion zur Ausgabe der Zahlen| 60' |
-| 4.A | 06.07.2023 | Agachan  | Entwicklung einer Funktion zur Konvertierung von Hexadezimalzahlen in Dezimalzahlen. | 180' |
-| 5.A | 13.07.2023 | Marku    | Implementierung einer Funktion, die Hexadezimalzahlen in Binärzahlen umwandelt. | 120' |
-| 6.A | 20.07.2023 | Jashari  | Programmierung der Detailansicht für Autos mit Fotos und Daten. | 180' |
-| 7.A | 27.07.2023 | Angelov  | Optimierung der Benutzerfreundlichkeit und Intuitivität der Website. | 240' |
-| 8.A | 03.08.2023 | Angelov  | Sicherstellung der Ladegeschwindigkeit und Responsivität der Website. | 240' |
-| 9.A | 10.08.2023 | Marku    | Integration der Warenkorbfunktion für ausgewählte Autos. | 120' |
-| 10.A | 17.08.2023 | Jashari      | Entwicklung der Warenkorbansicht für angemeldete Benutzer. | 120' |
-| 11.A | 24.08.2023 | Bajramovic   | Integration von Benutzerbewertungen und Kommentaren zu Autos. | 180' |
-
-Total: 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+| 1.A | 15.06.2023 | Angelov  | Entwicklung des Eingabefeldes | 30' |
+| 2.A | 22.06.2023 | Jashari  | Implementierung der Fehleingabe Funktion. | 45' |
+| 3.A | 29.06.2023 | Marku    | Implementierung der Funktion zur Ausgabe der Zahlen| 30' |
+| 4.A | 06.07.2023 | Angelov  | Entwicklung einer Funktion zur Konvertierung von Hexadezimalzahlen in Dezimalzahlen. | 120' |
+| 5.A | 13.07.2023 | Angelov    | Implementierung einer Funktion, die Hexadezimalzahlen in Binärzahlen umwandelt. | 120' |
+| 6.A | 20.07.2023 | Marku  | Erstellung einer Funktionalität zur Umwandlung von Dezimalzahlen in Binärzahlen. | 120' |
+| 7.A | 27.07.2023 | Marku  | Programmierung einer Funktion für die Konvertierung von Dezimalzahlen in Hexadezimalzahlen. | 120' |
+| 8.A | 03.08.2023 | Agachan  | Entwicklung der Funktion zur Umwandlung von Binärzahlen in Hexadezimalzahlen. | 120' |
+| 9.A | 10.08.2023 | Agachan    | Implementierung einer Funktion, die Binärzahlen in Dezimalzahlen konvertiert. | 120' |
+| 10.A | 17.08.2023 | Jashari      | Entwicklung der zwei Farbmodus | 120' |
+| 11.A | 24.08.2023 | Jashari   | Ganze Website stylen und benutzerfreundlich machen.| 180' |
 
 ## 3 Entscheiden
 
