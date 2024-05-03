@@ -73,7 +73,7 @@ Erleben Sie intuitive Binär-, Hexadezimal- und Dezimalumwandlungen auf Knopfdru
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir waren uns zunächst uneinig über die Implementierung der zwei Farbschemata, entschieden jedoch als Gruppe, dies umzusetzen, sofern die Zeit es erlaubt, um die Benutzererfahrung zu verbessern.
 
 ## 4 Realisieren
 
