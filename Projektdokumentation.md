@@ -110,18 +110,5 @@ Wir waren uns zunächst uneinig über die Implementierung der zwei Farbschemata,
 | 10.1 |  05.04.2024     |  Funktioniert        |  Angelov |
 | 11.1 |  05.04.2024     |  Funktioniert        |  Agachan |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Alle Tests vom 05.04.2024 wurden erfolgreich bestätigt. Das Produkt funktioniert stabil und ohne festgestellte Probleme.
 
